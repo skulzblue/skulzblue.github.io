@@ -24,7 +24,8 @@ a {
 
 /* Blue Section */
 #blue {
-    background-color: rgb(56, 56, 56);
+    /* background-color: rgb(56, 56, 56); */
+    background-image: url(./img/blue.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -41,12 +42,12 @@ a {
     /* background-color: black;
     opacity: .6; */
 /* } */
-/* #blue .blue{
+#blue .blue{
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 50px;
     justify-content: flex-start;
-} */
+}
 #blue h1 {
     display: block;
     width: fit-content;
