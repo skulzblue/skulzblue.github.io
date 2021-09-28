@@ -65,7 +65,7 @@ a {
 }
 #blue h1:nth-child(3) {
     animation: text_reveal_name .5s ease forwards;
-    animation-delay: 3s;
+    animation-delay: 2.5s;
 }
 #blue h1 span {
     position: absolute;
