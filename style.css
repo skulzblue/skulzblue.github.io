@@ -24,8 +24,8 @@ a {
 
 /* Blue Section */
 #blue {
-    background-color: rgb(56, 56, 56);
-    /* background-image: url(./img/city.jpg); */
+    /* background-color: rgb(56, 56, 56); */
+    background-image: url(./img/city.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -57,7 +57,7 @@ a {
     animation: text_reveal .5s ease forwards;
     animation-delay: 1.5s;
 }
-/* #blue h1:nth-child(1) {
+#blue h1:nth-child(1) {
     animation-delay: 1s;
 }
 #blue h1:nth-child(2) {
@@ -66,7 +66,7 @@ a {
 #blue h1:nth-child(3) {
     animation: text_reveal_name .5s ease forwards;
     animation-delay: 3s;
-} */
+}
 #blue h1 span {
     position: absolute;
     top: 0;
@@ -77,7 +77,7 @@ a {
     animation: text_reveal_box 1s ease;
     animation-delay: .5s;
 }
-/* #blue h1:nth-child(1) span {
+#blue h1:nth-child(1) span {
     animation-delay: .5s;
 }
 #blue h1:nth-child(2) span {
@@ -85,7 +85,7 @@ a {
 }
 #blue h1:nth-child(3) span {
     animation-delay: 2.5s;
-} */
+}
 #blue .cta {
     display: inline-block;
     padding: 10px 30px;
