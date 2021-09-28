@@ -109,6 +109,12 @@ a {
 }
 /* End Blue Section */
 
+/* Footer */
+#footer {
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+/* End Footer */
+
 /* keyframes Section */
 @keyframes text_reveal_box {
     50% {
