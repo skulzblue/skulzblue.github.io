@@ -86,21 +86,21 @@ a {
 #blue h1:nth-child(3) span {
     animation-delay: 2.5s;
 }
-#blue .cta {
+/* #blue .cta {
     display: inline-block;
     padding: 10px 30px;
     color: white;
     background-color: transparent;
     border: 2px solid blue;
     font-size: 1.5rem;
-    /* text-transform: uppercase; */
-    /* letter-spacing: 1rem; */
+    text-transform: uppercase;
+    letter-spacing: 1rem;
     margin-top: 30px;
     transition: .4s ease;
     transition-property: background-color, color;
     cursor:pointer;
     align-items: center;
-}
+} */
 
 #blue .cta:nth-child(1) {
     top: 0;
