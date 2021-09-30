@@ -37,3 +37,12 @@ button {
   outline: none;
   cursor: pointer
 }
+
+.content {
+  color: #fbfcfd;
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  transform: translateY(-50%);
+  z-index: 2;
+}
