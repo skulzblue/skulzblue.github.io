@@ -68,3 +68,9 @@ h1 {
   margin: 40px auto 0;
   cursor: pointer;
 }
+
+.social-links img{
+  width: 25px;
+  margin: 5px auto;
+  cursor: pointer;
+}
