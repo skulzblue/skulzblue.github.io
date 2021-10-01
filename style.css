@@ -37,58 +37,7 @@
   outline: none;
   cursor: pointer
 } */
-
-
-Home  CSS Buttons
-Glowing Effects on CSS Buttons using HTML & CSS
-By CodingNepal- May 14, 202011
-
- 
-Glowing Effects on CSS Buttons using HTML & CSS
-Hello readers, Today in this blog you’ll learn how to create CSS Buttons with a Glowing Effect on Hover. Earlier I have shared a Glowing Effect in Social Media Buttons, Now it’s time to create these Glowing Effects in Buttons.
-
-A button is a fundamental UI element that will heavily affect your interaction design of the website between the user. Buttons have the power to compel users to convert, to act.
-
-As you can see in the image, there are two buttons with cool background glowing effect. At first, these buttons are in the initial stage where there are no glowing effects on the background. But when you hover on the specific button then the glowing effect starts. This effect fully based on CSS only.
-
-If you’re feeling difficult to understand what I am saying. You can watch a full video tutorial on this program (Glowing Effects on CSS Buttons).
-
-Video Tutorial of Glowing Effect on CSS Buttons
-
- 
-If you like this program (Glowing Effects on CSS Buttons) and want to get source codes. You can easily get the source codes of this program. To get the source codes you just need to scroll down. You can use these Glowing buttons on your projects.
-
-If you have basic knowledge of HTML & CSS, you can also create these types of effects on buttons, social media icons, cards, etc. I believe this short video helps a beginner to understand behind creating a glow effect.
-
-Glowing Effect on Button using HTML & CSS [Source Codes]
-To create this program (Glowing Effects on CSS Buttons). First, you need to create two Files one HTML File and another one is CSS File. After creating these files just paste the following codes in your file. First, create an HTML file with the name of index.html and paste the given codes in your HTML file. Remember, you’ve to create a file with .html extension.
-
-<!DOCTYPE html>
-<!-- Created By CodingNepal -->
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Glowing Button on Hover</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <button>Hover Me</button>
-  </body>
-</html>
-Second, create a CSS file with the name of style.css and paste the given codes in your CSS file. Remember, you’ve to create a file with .css extension.
-
-@import url("https://fonts.googleapis.com/css?family=Raleway:300");
-*{
-  margin: 0;
-  padding: 0;
-}
-body{
-  display: flex;
-  height: 100vh;
-  background: black;
-  align-items: center;
-  justify-content: center;
-}
+  
 button{
   position: relative;
   height: 60px;
