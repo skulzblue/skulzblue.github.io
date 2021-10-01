@@ -44,8 +44,8 @@ button{
   width: 200px;
   border: none;
   outline: none;
-  color: white;
-  background: #111;
+  color: #fdfcfd;
+  background: transparent;
   cursor: pointer;
   border-radius: 5px;
   font-size: 18px;
