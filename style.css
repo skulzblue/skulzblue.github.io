@@ -38,6 +38,17 @@
   cursor: pointer
 } */
 
+.button2 {
+  display: inline-block;
+  background: linear-gradient(45deg, #87adfe, #ff77cd);
+  border-radius: 6px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #fff;
+  box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
+}
+
 button {
   display: inline-block;
   background: linear-gradient(45deg, #87adfe, #ff77cd);
