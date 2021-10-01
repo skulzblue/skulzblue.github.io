@@ -53,6 +53,10 @@ h1 {
   line-height: 80px
 }
 
+h1 span {
+  color: blue
+}
+
 .side-bar {
   width: 50px;
   height: 100vh;
