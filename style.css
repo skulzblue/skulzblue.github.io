@@ -41,8 +41,8 @@
 button{
   position: relative;
   padding: 10px 25px;
-  height: 60px;
-  width: 200px;
+  /* height: 60px;
+  width: 200px; */
   border: 1px solid #fff;
   outline: none;
   color: #fdfcfd;
