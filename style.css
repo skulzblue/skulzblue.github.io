@@ -59,7 +59,7 @@ button:before{
   left: -2px;
   height: calc(100% + 4px);
   width: calc(100% + 4px);
-  border-radius: 5px;
+  border-radius: 20px;
   z-index: -1;
   opacity: 0;
   filter: blur(5px);
