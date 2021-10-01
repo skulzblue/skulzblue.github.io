@@ -40,14 +40,15 @@
   
 button{
   position: relative;
+  padding: 10px 25px;
   height: 60px;
   width: 200px;
-  border: none;
+  border: 1px solid #fff;
   outline: none;
   color: #fdfcfd;
   background: transparent;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
