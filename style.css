@@ -28,7 +28,7 @@
   justify-content: space-between;
 }
 
-button {
+/* button {
   color: #fbfcfd;
   padding: 10px 25px;
   background: transparent;
@@ -36,9 +36,9 @@ button {
   border-radius: 20px;
   outline: none;
   cursor: pointer
-}
+} */
   
-/* button{
+button{
   position: relative;
   padding: 10px 25px;
   height: 60px;
@@ -51,7 +51,7 @@ button {
   border-radius: 20px;
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
-} */
+}
 button:before{
   position: absolute;
   content: '';
