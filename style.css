@@ -171,7 +171,6 @@ h1 span {
 .copyright {
   text-align: center;
   width: 100%;
-  display: flex;
   position: absolute;
   color: white;
   bottom: 1px;
